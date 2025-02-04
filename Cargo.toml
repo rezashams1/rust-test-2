@@ -1,5 +1,5 @@
 [package]
-name = "just-for-test-2"
+name = "just_for_test"
 version = "0.1.0"
 edition = "2021"
 description = "A test crate"
